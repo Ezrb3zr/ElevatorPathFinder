@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ElevatorPathfinder",
+            "request": "launch",
+            "mainClass": "ElevatorPathfinder",
+            "projectName": "Elevators_8aa8f43b"
+        }
+    ]
+}
