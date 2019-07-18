@@ -2,6 +2,9 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Stack;
 import java.util.StringTokenizer;
+import java.util.TreeMap;
+
+import com.sun.tools.javac.tree.TreeMaker;
 
 public class ElevatorPathfinder{
 
@@ -191,4 +194,11 @@ public class ElevatorPathfinder{
         }
         return false;
     }
+
+
+    TreeMap<ConnectionNode> elevatorTree = new TreeMap<>();
+    
+
+
+
 }
